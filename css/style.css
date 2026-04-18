@@ -529,7 +529,7 @@ h3.my-profession{
 }
 .portfolio .container{
     padding-bottom:40px ;
-    margin-top: -200px;
+    margin-top: 0px;
 }
 .portfolio .portfolio-heading{
     flex: 0 0 100%;
